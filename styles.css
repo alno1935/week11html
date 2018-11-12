@@ -1,0 +1,36 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+h1{
+    text-align: center;
+    background-color: white;
+}
+body{
+    background-color: black;
+    height:2000px;
+}
+.intro{
+    width:300px;
+    color: white;
+    border: 1px dotted blue;
+    margin: auto;
+    margin-top: 150px;
+    padding: 20px;
+    text-align: center;
+    border-radius: 10px;
+}
+.full-box{
+    background-color: red;
+    margin-top:100px;
+    padding:20px;
+    height:200px
+}
+.middle-box{
+    background-color:green;
+    margin:auto;
+    margin-top:30px;
+    padding:45px;
+    width:150px;
+    color:white;
+}
